@@ -1,8 +1,6 @@
 # replication-files_Raiber-et-al-2023-European-Societies
 Replication files for Raiber et al 2023 - Strategies of informal caregivers to adapt paid work in European Societies 
 
-Reading guide: Publication Package Raiber, Visser and Verbakel 2023 in European Societies
-
 a) Name of the person who stored the documents or files: Klara Raiber
 
 b) Author Contributions: Conceptualization, Raiber, Visser and Verbakel; Methodology, Raiber, Visser and Verbakel; Analysis, Raiber; Writing – Original Draft Preparation, Raiber; Writing – Review & Editing, Visser and Verbakel; Data collection, Verbakel
